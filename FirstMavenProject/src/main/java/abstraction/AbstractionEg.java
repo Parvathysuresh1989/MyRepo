@@ -8,6 +8,7 @@ public abstract class AbstractionEg {
 	}
 	
 	public abstract void display2();
+	public abstract void show();
 	
 
 }

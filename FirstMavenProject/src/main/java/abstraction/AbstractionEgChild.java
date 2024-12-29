@@ -19,4 +19,10 @@ public class AbstractionEgChild extends AbstractionEg {
 		
 	}
 
+	@Override
+	public void show() {
+		System.out.println("Abstract method");
+		
+	}
+
 }
